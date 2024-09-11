@@ -1,0 +1,4 @@
+enum DGListingType {
+  home,
+  invest
+}

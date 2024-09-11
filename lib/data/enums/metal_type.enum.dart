@@ -1,0 +1,4 @@
+enum MetalType {
+  gold,
+  silver;
+}
